@@ -1,0 +1,8 @@
+{
+  "_note": "SwingOut ozellik anahtarlari. Oyun acilista indirir, BIR SONRAKI acilista uygular. Yalniz true/false okunur. anahtar@surum (orn. par_score@1.2.0) yalniz o surum icin gecerlidir. Yayin: Tools/publish_site.sh Docs/Site/swingout/flags.json swingout/flags.json",
+  "pivot_arrow": false,
+  "hold_preview": false,
+  "par_score": false,
+  "stuck_help": false,
+  "achievements_v2": false
+}

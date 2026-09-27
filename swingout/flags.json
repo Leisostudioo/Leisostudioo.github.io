@@ -3,11 +3,13 @@
   "tutorial_aids_max_level": 10,
   "leaderboard_toast_top": 10,
   "ccw_tint_style": 1,
+  "tilt_degrees": 45,
   "pivot_arrow": false,
   "hold_preview": false,
   "par_score": false,
   "stuck_help": false,
   "achievements_v2": false,
   "leaderboard": false,
-  "ccw_tint": false
+  "ccw_tint": false,
+  "tilt_levels": false
 }

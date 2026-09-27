@@ -12,5 +12,7 @@
   "leaderboard": false,
   "ccw_tint": false,
   "tilt_levels": false,
-  "ccw_intro_anim": false
+  "ccw_intro_anim": false,
+  "tilt_tint": false,
+  "quiet_cw_return": false
 }

@@ -11,5 +11,6 @@
   "achievements_v2": false,
   "leaderboard": false,
   "ccw_tint": false,
-  "tilt_levels": false
+  "tilt_levels": false,
+  "ccw_intro_anim": false
 }

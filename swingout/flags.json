@@ -1,5 +1,6 @@
 {
-  "_note": "SwingOut ozellik anahtarlari. Oyun acilista indirir, BIR SONRAKI acilista uygular. Yalniz true/false okunur. anahtar@surum (orn. par_score@1.2.0) yalniz o surum icin gecerlidir. Yayin: Tools/publish_site.sh Docs/Site/swingout/flags.json swingout/flags.json",
+  "_note": "SwingOut ozellik anahtarlari. Oyun acilista indirir, BIR SONRAKI acilista uygular. true/false ve tam sayi okunur. anahtar@surum (orn. par_score@1.2.0) yalniz o surum icin gecerlidir. Yayin: Tools/publish_site.sh Docs/Site/swingout/flags.json swingout/flags.json",
+  "tutorial_aids_max_level": 10,
   "pivot_arrow": false,
   "hold_preview": false,
   "par_score": false,
